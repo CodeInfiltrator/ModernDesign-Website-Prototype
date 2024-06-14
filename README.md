@@ -1,4 +1,4 @@
-# ModernDesign-Website-Prototyp
+# ModernDesign-Website-Prototype
 
 ## Simple Website Design with black&white colour
 
